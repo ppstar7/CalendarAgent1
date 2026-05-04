@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "data-analyst-agent"
+version = "0.1.0"
+description = "A local data analyst agent for exploring CSV, Excel, JSON, and Parquet datasets with OpenAI."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "duckdb>=1.1.0",
+  "google-api-python-client>=2.170.0",
+  "google-auth-httplib2>=0.2.0",
+  "google-auth-oauthlib>=1.2.0",
+  "openai>=1.30.0",
+  "openpyxl>=3.1.0",
+  "pandas>=2.2.0",
+  "pyarrow>=15.0.0",
+  "reportlab>=4.2.0",
+]
+
+[project.scripts]
+calendar-weekly-report = "analyst_agent.google_calendar_weekly:main"
+customer-success-calendar-agent = "analyst_agent.customer_success_calendar_agent:main"
+data-analyst-agent = "analyst_agent.cli:main"
+
+[tool.setuptools]
+packages = ["analyst_agent"]

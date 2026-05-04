@@ -1,0 +1,301 @@
+{
+  "goal": "Land a job in Customer Success",
+  "calendar_id": "primary",
+  "timezone": "America/Los_Angeles",
+  "report_start": "2026-05-01",
+  "report_end": "2026-05-31",
+  "summary": {
+    "total_upcoming_events": 14,
+    "high_value_events": 0,
+    "maybe_useful_events": 4,
+    "low_value_events": 10,
+    "helpful_share": 28.6
+  },
+  "weekly_summary": [
+    {
+      "week_start": "2026-04-27",
+      "week_end": "2026-05-03",
+      "event_count": 3,
+      "helpful_event_count": 2,
+      "high_value_event_count": 0
+    },
+    {
+      "week_start": "2026-05-04",
+      "week_end": "2026-05-10",
+      "event_count": 5,
+      "helpful_event_count": 0,
+      "high_value_event_count": 0
+    },
+    {
+      "week_start": "2026-05-11",
+      "week_end": "2026-05-17",
+      "event_count": 3,
+      "helpful_event_count": 1,
+      "high_value_event_count": 0
+    },
+    {
+      "week_start": "2026-05-18",
+      "week_end": "2026-05-24",
+      "event_count": 2,
+      "helpful_event_count": 1,
+      "high_value_event_count": 0
+    },
+    {
+      "week_start": "2026-05-25",
+      "week_end": "2026-05-31",
+      "event_count": 1,
+      "helpful_event_count": 0,
+      "high_value_event_count": 0
+    }
+  ],
+  "top_locations": [
+    {
+      "location": "https://events.zoom.us/ej/Ag8mAxPrSt8PmChITWAPlSWT5FzE3NL0_fNUnr6VIaJ5Y4Nn-nK5~A383UwcXOOZPdGo6-IdoJeNegDBjV6c3R-AiOdbYMNVuzuwdd--3oJK8ZgISct04__6-WkOwVsQf1_zNDIDd-gioX76es4Yd5A49K-Ei_QirAo8BJcqhNJ-7jze3b5s2ffQhp4S-IgDYcXE4zgdAPAIz-okqL2PVCGQ",
+      "count": 1
+    },
+    {
+      "location": "https://events.zoom.us/ej/Ag8mAxPrSt8PmChITWAPlSWT5FzE3NL0_fNUnr6VIaJ5Y4Nn-nK5~A6Sdwsed8pXpT2ue-5kSfb6OUyovu8tah-HsW1viIICta9mgl3-sPWuCj8ocI_Tieku-G45ofwfwV629-Zol-zAHg2Pa0WbYVrQPT-VRsalms_stCaPt0i-dky3F39BwHu9P-tD-iaEbw5QSLRjj94vP-A2Fl_G9VBrKZ",
+      "count": 1
+    },
+    {
+      "location": "Main Library - San Francisco Public Library, 100 Larkin St, San Francisco, CA 94102, USA",
+      "count": 1
+    },
+    {
+      "location": "St. Joseph's Church, 1401 Howard St, San Francisco, CA 94103, USA",
+      "count": 1
+    },
+    {
+      "location": "500 Sansome St, San Francisco, CA 94111, USA",
+      "count": 1
+    }
+  ],
+  "events": [
+    {
+      "start": "2026-05-01T00:00:00-07:00",
+      "end": "2026-05-02T00:00:00-07:00",
+      "title": "\ud83d\udcb3 Monthly: Check ALL Amex Offers + Use Monthly Credits",
+      "location": "Not specified",
+      "score": 0,
+      "verdict": "Low value",
+      "action": "Consider declining or deprioritizing",
+      "reasons": [
+        "Location is missing, so the value is harder to judge"
+      ],
+      "organizer": "1bivekadhikari@gmail.com",
+      "attendees": 2,
+      "week_start": "2026-04-27",
+      "helpful": false
+    },
+    {
+      "start": "2026-05-01T09:00:00-07:00",
+      "end": "2026-05-01T10:00:00-07:00",
+      "title": "Circle Leader Training: Everything you need to know to launch your Circle",
+      "location": "https://events.zoom.us/ej/Ag8mAxPrSt8PmChITWAPlSWT5FzE3NL0_fNUnr6VIaJ5Y4Nn-nK5~A383UwcXOOZPdGo6-IdoJeNegDBjV6c3R-AiOdbYMNVuzuwdd--3oJK8ZgISct04__6-WkOwVsQf1_zNDIDd-gioX76es4Yd5A49K-Ei_QirAo8BJcqhNJ-7jze3b5s2ffQhp4S-IgDYcXE4zgdAPAIz-okqL2PVCGQ",
+      "score": 4,
+      "verdict": "Maybe useful",
+      "action": "Review manually",
+      "reasons": [
+        "Matches 'training'",
+        "Matches 'client'"
+      ],
+      "organizer": "mepratibha.pandey@gmail.com",
+      "attendees": 0,
+      "week_start": "2026-04-27",
+      "helpful": true
+    },
+    {
+      "start": "2026-05-01T09:00:00-07:00",
+      "end": "2026-05-01T10:00:00-07:00",
+      "title": "Circle Leader Training: Everything you need to know to launch your Circle",
+      "location": "https://events.zoom.us/ej/Ag8mAxPrSt8PmChITWAPlSWT5FzE3NL0_fNUnr6VIaJ5Y4Nn-nK5~A6Sdwsed8pXpT2ue-5kSfb6OUyovu8tah-HsW1viIICta9mgl3-sPWuCj8ocI_Tieku-G45ofwfwV629-Zol-zAHg2Pa0WbYVrQPT-VRsalms_stCaPt0i-dky3F39BwHu9P-tD-iaEbw5QSLRjj94vP-A2Fl_G9VBrKZ",
+      "score": 4,
+      "verdict": "Maybe useful",
+      "action": "Review manually",
+      "reasons": [
+        "Matches 'training'",
+        "Matches 'client'"
+      ],
+      "organizer": "no-reply@zoom.us",
+      "attendees": 1,
+      "week_start": "2026-04-27",
+      "helpful": true
+    },
+    {
+      "start": "2026-05-04T10:00:00-07:00",
+      "end": "2026-05-04T11:30:00-07:00",
+      "title": "Own Your Narrative: How PR & AI Power Small Business Growth",
+      "location": "Main Library - San Francisco Public Library, 100 Larkin St, San Francisco, CA 94102, USA",
+      "score": 1,
+      "verdict": "Low value",
+      "action": "Consider declining or deprioritizing",
+      "reasons": [
+        "Matches 'support'"
+      ],
+      "organizer": "calendar-invite@lu.ma",
+      "attendees": 1,
+      "week_start": "2026-05-04",
+      "helpful": false
+    },
+    {
+      "start": "2026-05-04T18:00:00-07:00",
+      "end": "2026-05-04T21:00:00-07:00",
+      "title": "San Francisco Small Business Week 2026 Opening Ceremony",
+      "location": "St. Joseph's Church, 1401 Howard St, San Francisco, CA 94103, USA",
+      "score": 2,
+      "verdict": "Low value",
+      "action": "Consider declining or deprioritizing",
+      "reasons": [
+        "Matches 'customer'"
+      ],
+      "organizer": "mepratibha.pandey@gmail.com",
+      "attendees": 0,
+      "week_start": "2026-05-04",
+      "helpful": false
+    },
+    {
+      "start": "2026-05-07T01:00:00-07:00",
+      "end": "2026-05-07T02:00:00-07:00",
+      "title": "Callan HOA",
+      "location": "Not specified",
+      "score": 0,
+      "verdict": "Low value",
+      "action": "Consider declining or deprioritizing",
+      "reasons": [
+        "Location is missing, so the value is harder to judge"
+      ],
+      "organizer": "mepratibha.pandey@gmail.com",
+      "attendees": 0,
+      "week_start": "2026-05-04",
+      "helpful": false
+    },
+    {
+      "start": "2026-05-07T18:00:00-07:00",
+      "end": "2026-05-07T21:00:00-07:00",
+      "title": "Shepherd Office Warming \ud83c\udf89\ud83c\udfe2",
+      "location": "500 Sansome St, San Francisco, CA 94111, USA",
+      "score": 0,
+      "verdict": "Low value",
+      "action": "Consider declining or deprioritizing",
+      "reasons": [
+        "No strong Customer Success or job-search signal found in the event details"
+      ],
+      "organizer": "calendar-invite@lu.ma",
+      "attendees": 1,
+      "week_start": "2026-05-04",
+      "helpful": false
+    },
+    {
+      "start": "2026-05-07T18:30:00-07:00",
+      "end": "2026-05-07T21:30:00-07:00",
+      "title": "133rd SF Hardware Meetup @ WHIPSAW | Robotics + Physical AI",
+      "location": "Whipsaw, 55 Mississippi St, San Francisco, CA 94107, USA",
+      "score": 0,
+      "verdict": "Low value",
+      "action": "Consider declining or deprioritizing",
+      "reasons": [
+        "No strong Customer Success or job-search signal found in the event details"
+      ],
+      "organizer": "calendar-invite@lu.ma",
+      "attendees": 1,
+      "week_start": "2026-05-04",
+      "helpful": false
+    },
+    {
+      "start": "2026-05-13T17:30:00-07:00",
+      "end": "2026-05-13T20:30:00-07:00",
+      "title": "SF DEMO NIGHT \ud83d\ude80 (w/ The AI Collective)",
+      "location": "AWS Builder Loft, 525 Market St, San Francisco, CA 94105, USA",
+      "score": 0,
+      "verdict": "Low value",
+      "action": "Consider declining or deprioritizing",
+      "reasons": [
+        "No strong Customer Success or job-search signal found in the event details"
+      ],
+      "organizer": "calendar-invite@lu.ma",
+      "attendees": 1,
+      "week_start": "2026-05-11",
+      "helpful": false
+    },
+    {
+      "start": "2026-05-13T18:00:00-07:00",
+      "end": "2026-05-13T19:00:00-07:00",
+      "title": "AI Builders night San Francisco",
+      "location": "San Francisco, CA",
+      "score": 3,
+      "verdict": "Maybe useful",
+      "action": "Review manually",
+      "reasons": [
+        "Touches a target SaaS company or tool often used in Customer Success"
+      ],
+      "organizer": "mepratibha.pandey@gmail.com",
+      "attendees": 1,
+      "week_start": "2026-05-11",
+      "helpful": true
+    },
+    {
+      "start": "2026-05-14T17:30:00-07:00",
+      "end": "2026-05-14T20:30:00-07:00",
+      "title": "The future of Fin and the Customer Agent category",
+      "location": "The Contemporary Jewish Museum, 736 Mission St, San Francisco, CA 94103, USA",
+      "score": 2,
+      "verdict": "Low value",
+      "action": "Consider declining or deprioritizing",
+      "reasons": [
+        "Matches 'customer'"
+      ],
+      "organizer": "calendar-invite@lu.ma",
+      "attendees": 1,
+      "week_start": "2026-05-11",
+      "helpful": false
+    },
+    {
+      "start": "2026-05-19T09:00:00-07:00",
+      "end": "2026-05-19T17:00:00-07:00",
+      "title": "Canvas 26",
+      "location": "The Midway, 900 Marin St, San Francisco, CA 94124, United States",
+      "score": 0,
+      "verdict": "Low value",
+      "action": "Consider declining or deprioritizing",
+      "reasons": [
+        "No strong Customer Success or job-search signal found in the event details"
+      ],
+      "organizer": "mepratibha.pandey@gmail.com",
+      "attendees": 0,
+      "week_start": "2026-05-18",
+      "helpful": false
+    },
+    {
+      "start": "2026-05-19T18:00:00-07:00",
+      "end": "2026-05-19T20:00:00-07:00",
+      "title": "How She Got the Board Seat | Women in AI",
+      "location": "Orrick, 405 Howard St, San Francisco, CA 94105, USA",
+      "score": 5,
+      "verdict": "Maybe useful",
+      "action": "Review manually",
+      "reasons": [
+        "Matches 'networking'"
+      ],
+      "organizer": "calendar-invite@lu.ma",
+      "attendees": 1,
+      "week_start": "2026-05-18",
+      "helpful": true
+    },
+    {
+      "start": "2026-05-25T05:00:00-07:00",
+      "end": "2026-05-25T06:00:00-07:00",
+      "title": "Dad bday",
+      "location": "Not specified",
+      "score": 0,
+      "verdict": "Low value",
+      "action": "Consider declining or deprioritizing",
+      "reasons": [
+        "Location is missing, so the value is harder to judge"
+      ],
+      "organizer": "mepratibha.pandey@gmail.com",
+      "attendees": 0,
+      "week_start": "2026-05-25",
+      "helpful": false
+    }
+  ]
+}
